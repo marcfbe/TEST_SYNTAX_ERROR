@@ -1,5 +1,5 @@
 INTERFACE ztest_interface
-  PUBLIX .
+  PUBLIC .
 
 
   CLASS-METHODS hello_world .
