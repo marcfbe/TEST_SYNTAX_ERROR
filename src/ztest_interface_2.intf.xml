@@ -10,14 +10,6 @@
     <STATE>1</STATE>
     <UNICODE>X</UNICODE>
    </VSEOINTERF>
-   <DESCRIPTIONS>
-    <SEOCOMPOTX>
-     <CLSNAME>ZTEST_INTERFACE_2</CLSNAME>
-     <CMPNAME>HELLO_WORLD</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>Test</DESCRIPT>
-    </SEOCOMPOTX>
-   </DESCRIPTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
